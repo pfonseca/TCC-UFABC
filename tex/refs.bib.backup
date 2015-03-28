@@ -1,0 +1,239 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Paulo Vitor Mira Fonseca at 2011-10-18 00:28:05 -0200 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@electronic{ImplementacaoEigenFacesServo,
+	Author = {SERVO Magazine},
+	Date-Added = {2011-10-18 02:19:37 +0000},
+	Date-Modified = {2011-10-18 02:27:12 +0000},
+	Keywords = {EigenFaces},
+	Title = {Implementing Eigenface},
+	Url = {http://www.cognotics.com/opencv/servo_2007_series/part_5/page_1.html},
+	Year = {2007},
+	Bdsk-Url-1 = {http://www.cognotics.com/opencv/servo_2007_series/part_5/page_1.html}}
+
+@article{FaceDetectionSurvey,
+	Author = {Cha Zhang and Zhengyou Zhang},
+	Month = {Junho},
+	Pages = {17},
+	Title = {{A Survey of Recent Advances in Face Detection}},
+	Url = {http://research.microsoft.com/pubs/132077/facedetsurvey.pdf},
+	Year = {2010},
+	Bdsk-Url-1 = {http://research.microsoft.com/pubs/132077/facedetsurvey.pdf}}
+
+@article{NikolayOleg,
+	Author = {Nikolay Degtyarev and Oleg Seredin},
+	Pages = {10},
+	Title = {{Comparative Testing of Face Detection Algorithms}},
+	Url = {http://lda.tsu.tula.ru/papers/degtyarev-2010-icisp-ctfd.pdf},
+	Year = {2010},
+	Bdsk-Url-1 = {http://lda.tsu.tula.ru/papers/degtyarev-2010-icisp-ctfd.pdf}}
+
+@book{LearningOpenCV,
+	Author = {Gary Bradski and Adrian Kaehler},
+	Editor = {Mike Loukides},
+	Isbn = {978-0-596-51613-0},
+	Month = {Setembro},
+	Publisher = {O'Reilly Media, Inc.},
+	Title = {{Learning OpenCV}},
+	Year = {2008}}
+
+@book{ProcessamentoImagensDigitais,
+	Author = {Rafael C. Gonzalez and Richard E. Woods},
+	Isbn = {978-85-212-0264-6},
+	Publisher = {Blucher},
+	Title = {{Processamento de imagens digitais}},
+	Year = {2010}}
+
+@electronic{BSD,
+	Month = {04},
+	Title = {{BSD License}},
+	Url = {http://creativecommons.org/licenses/BSD/},
+	Year = {2011},
+	Bdsk-Url-1 = {http://creativecommons.org/licenses/BSD/}}
+
+@book{SimonHaykin,
+	Author = {Simon Haykin},
+	Isbn = {9788573077186},
+	Publisher = {bookman},
+	Title = {{Redes Neurais Princ{\'\i}pios e Pr{\'a}tica}},
+	Year = {1999}}
+
+@article{MARKOV_MODELS,
+	Author = {Ara V. Nefian and Monson H. Hayes III},
+	Title = {{FACE DETECTION AND RECOGNITION USING HIDDEN MARKOV MODELS}},
+	Year = {1998}}
+
+@article{SaadAhmed,
+	Author = {Saad Ahmed Sirohey},
+	Title = {{HUMAN FACE SEGMENTATION AND IDENTIFICATION}},
+	Year = {1993}}
+
+@article{YangKriegman,
+	Author = {Ming-Hsuan Yang and David J. Kriegman and Narendra Ahuja},
+	Journal = {IEEE},
+	Month = {Janeiro},
+	Pages = {25},
+	Title = {{Detecting Faces in Images: A Survey}},
+	Year = {2002}}
+
+@electronic{OpenCV,
+	Month = {04},
+	Title = {{Open Source Computer Vision Library}},
+	Url = {http://sourceforge.net/projects/opencvlibrary/},
+	Year = {2011},
+	Bdsk-Url-1 = {http://sourceforge.net/projects/opencvlibrary/}}
+
+@electronic{LTI-Lib,
+	Month = {04},
+	Title = {{LTI-Lib}},
+	Url = {http://ltilib.sourceforge.net/doc/homepage/index.shtml},
+	Year = {2011},
+	Bdsk-Url-1 = {http://ltilib.sourceforge.net/doc/homepage/index.shtml}}
+
+@electronic{artoolkit,
+	Month = {04},
+	Title = {{LTI-Lib}},
+	Url = {http://www.hitl.washington.edu/artoolkit/},
+	Year = {2011},
+	Bdsk-Url-1 = {http://www.hitl.washington.edu/artoolkit/}}
+
+@electronic{libcvd,
+	Month = {04},
+	Title = {{libcvd}},
+	Url = {http://savannah.nongnu.org/projects/libcvd},
+	Year = {2011},
+	Bdsk-Url-1 = {http://savannah.nongnu.org/projects/libcvd}}
+
+@electronic{Gpucv,
+	Month = {04},
+	Title = {{Gpucv}},
+	Url = {http://picoforge.int-evry.fr/cgi-bin/twiki/view/Gpucv/Web/},
+	Year = {2011},
+	Bdsk-Url-1 = {http://picoforge.int-evry.fr/cgi-bin/twiki/view/Gpucv/Web/}}
+
+@electronic{pyvision,
+	Month = {04},
+	Title = {{pyvision}},
+	Url = {http://sourceforge.net/apps/mediawiki/pyvision/index.php?title=FaceL:_Facile_Face_Labeling},
+	Year = {2011},
+	Bdsk-Url-1 = {http://sourceforge.net/apps/mediawiki/pyvision/index.php?title=FaceL:_Facile_Face_Labeling}}
+
+@article{TUR91,
+	Author = {M.A. Turk and A. P. Pentland},
+	Title = {{Face Recognition Using Eigenfaces}},
+	Year = {1991}}
+
+@article{ViolaJones,
+	Author = {Paul Viola and Michael Jones},
+	Journal = {SECOND INTERNATIONAL WORKSHOP ON STATISTICAL AND COMPUTATIONAL THEORIES OF VISION},
+	Title = {{Robust Real-time Object Detection}},
+	Year = {2001}}
+
+@misc{Freund95adecision-theoretic,
+	Author = {Yoav Freund and Robert E. Schapire},
+	Title = {A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting},
+	Year = {1995}}
+
+@incollection{Fahlman:1990:CLA:109230.107380,
+	Acmid = {107380},
+	Address = {San Francisco, CA, USA},
+	Author = {Fahlman, Scott E. and Lebiere, Christian},
+	Chapter = {The cascade-correlation learning architecture},
+	Editor = {Touretzky, David S.},
+	Isbn = {1-55860-100-7},
+	Numpages = {9},
+	Pages = {524--532},
+	Publisher = {Morgan Kaufmann Publishers Inc.},
+	Title = {Advances in neural information processing systems 2},
+	Url = {http://portal.acm.org/citation.cfm?id=109230.107380},
+	Year = {1990},
+	Bdsk-Url-1 = {http://portal.acm.org/citation.cfm?id=109230.107380}}
+
+@book{ForsythDavidPonce,
+	Abstract = {{The accessible presentation of this book gives both a general view of the entire computer vision enterprise and also offers sufficient detail to be able to build useful applications. Users learn techniques that have proven to be useful by first-hand experience and a wide range of mathematical methods. A <B>CD-ROM with every copy of the text</I></B> contains source code for programming practice, color images, and illustrative movies.  Comprehensive and up-to-date, this book includes essential topics that either reflect practical significance or are of theoretical importance. Topics are discussed in substantial and increasing depth. <B>Application surveys</I></B> describe numerous important application areas such as image based rendering and digital libraries. Many important algorithms broken down and illustrated in pseudo code.  Appropriate for use by engineers as a comprehensive reference to the computer vision enterprise.}},
+	Author = {Forsyth, David A. and Ponce, Jean},
+	Citeulike-Article-Id = {352526},
+	Citeulike-Linkout-0 = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0130851981},
+	Citeulike-Linkout-1 = {http://www.amazon.de/exec/obidos/redirect?tag=citeulike01-21\&amp;path=ASIN/0130851981},
+	Citeulike-Linkout-2 = {http://www.amazon.fr/exec/obidos/redirect?tag=citeulike06-21\&amp;path=ASIN/0130851981},
+	Citeulike-Linkout-3 = {http://www.amazon.jp/exec/obidos/ASIN/0130851981},
+	Citeulike-Linkout-4 = {http://www.amazon.co.uk/exec/obidos/ASIN/0130851981/citeulike00-21},
+	Citeulike-Linkout-5 = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0130851981},
+	Citeulike-Linkout-6 = {http://www.worldcat.org/isbn/0130851981},
+	Citeulike-Linkout-7 = {http://books.google.com/books?vid=ISBN0130851981},
+	Citeulike-Linkout-8 = {http://www.amazon.com/gp/search?keywords=0130851981\&index=books\&linkCode=qs},
+	Citeulike-Linkout-9 = {http://www.librarything.com/isbn/0130851981},
+	Day = {24},
+	Edition = {US ed},
+	Howpublished = {Hardcover},
+	Isbn = {0130851981},
+	Keywords = {machine\_learning, overview, vision},
+	Month = aug,
+	Posted-At = {2007-10-31 23:10:48},
+	Priority = {0},
+	Publisher = {Prentice Hall},
+	Title = {{Computer Vision: A Modern Approach}},
+	Url = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0130851981},
+	Year = {2002},
+	Bdsk-Url-1 = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20%5C&path=ASIN/0130851981}}
+
+@article{Yang199453,
+	Author = {Guangzheng Yang and Thomas S Huang},
+	Doi = {DOI: 10.1016/0031-3203(94)90017-5},
+	Issn = {0031-3203},
+	Journal = {Pattern Recognition},
+	Keywords = {Edge detection},
+	Number = {1},
+	Pages = {53 - 63},
+	Title = {Human face detection in a complex background},
+	Url = {http://www.sciencedirect.com/science/article/pii/0031320394900175},
+	Volume = {27},
+	Year = {1994},
+	Bdsk-Url-1 = {http://www.sciencedirect.com/science/article/pii/0031320394900175},
+	Bdsk-Url-2 = {http://dx.doi.org/10.1016/0031-3203(94)90017-5}}
+
+@article{Canny86,
+	Abstract = {{An abstract is not available.}},
+	Address = {Washington, DC, USA},
+	Author = {Canny, J.},
+	Citeulike-Article-Id = {504152},
+	Citeulike-Linkout-0 = {http://portal.acm.org/citation.cfm?id=11275},
+	Citeulike-Linkout-1 = {http://dx.doi.org/10.1109/TPAMI.1986.4767851},
+	Citeulike-Linkout-2 = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=4767851},
+	Doi = {10.1109/TPAMI.1986.4767851},
+	Issn = {0162-8828},
+	Journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+	Keywords = {edge},
+	Month = nov,
+	Number = {6},
+	Pages = {679--698},
+	Posted-At = {2006-03-05 00:12:04},
+	Priority = {2},
+	Publisher = {IEEE Computer Society},
+	Title = {{A computational approach to edge detection}},
+	Url = {http://dx.doi.org/10.1109/TPAMI.1986.4767851},
+	Volume = {8},
+	Year = {1986},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1109/TPAMI.1986.4767851}}
+
+@article{Chai:1998:LFR:520809.796104,
+	Acmid = {796104},
+	Address = {Washington, DC, USA},
+	Author = {Chai, D. and Ngan, K. N.},
+	Booktitle = {Proceedings of the 3rd. International Conference on Face \& Gesture Recognition},
+	Isbn = {0-8186-8344-9},
+	Pages = {124--},
+	Publisher = {IEEE Computer Society},
+	Series = {FG '98},
+	Title = {Locating Facial Region of a Head-and-Shoulders Color Image},
+	Url = {http://portal.acm.org/citation.cfm?id=520809.796104},
+	Year = {1998},
+	Bdsk-Url-1 = {http://portal.acm.org/citation.cfm?id=520809.796104}}

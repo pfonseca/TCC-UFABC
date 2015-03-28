@@ -1,0 +1,78 @@
+\documentclass[12pt,a4paper,final,brazil,twoside,pdftex,tcc1]{unifesp}
+\usepackage{scalefnt}
+\usepackage[brazil]{babel}
+%\usepackage[utf8]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+\usepackage[top=30mm,bottom=20mm,left=30mm,right=20mm,pdftex,includeheadfoot]{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage[sort&compress]{natbib}
+ \usepackage[nottoc]{tocbibind}
+ \usepackage{url,ae,amsfonts,amsmath,amssymb,colortbl,keyval,lscape,longtable,multirow,
+             paralist,xspace,setspace,subfigure,tabularx,times,listings,lettrine,
+             pdftricks,textfit,titlesec,fancyhdr}
+
+%\usepackage[pdftex,plainpages=false,pdfpagelabels]{hyperref}
+\lstset{language=Java, stringstyle=\ttfamily, % configurações do listings para listar código
+basicstyle=\ttfamily, showstringspaces=false}
+
+% Definir a localização padrão dos ambientes float
+\floatplacement{figure}{!htb} \floatplacement{table}{!htb}
+% Definir o tipo de extensão padrão para as figuras
+\DeclareGraphicsExtensions{.pdf,.png,.jpg} % Para versao PDF
+% Ajusta o numero de capítulos para 3 níveis
+\setcounter{secnumdepth} {2}
+% Faz com que os 3 níveis de capítulos apareçam no índice
+\setcounter{tocdepth} {2}
+% Definir a linhas viúvas
+\widowpenalty = 100000
+%Definir hifenização
+\exhyphenpenalty=10000
+% Para substituir o comando \citep por \cite
+\let\cite\citep
+
+\begin{document}
+\pagestyle{empty}
+\include{capa}
+\include{rosto}
+
+\maketitle
+
+%\include{dedicatoria}
+\include{agradecimentos}
+\cleardoublepage
+
+\frontmatter
+
+\include{resumo}
+\include{abstract}
+
+\tableofcontents
+\listoftables
+\listoffigures
+
+\clearpage{\pagestyle{empty}\cleardoublepage}
+
+\mainmatter \onehalfspace
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername \ \thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+
+\renewcommand{\lstlistingname}{Algoritmo}
+
+\include{introducao}
+% \include{8_TrabalhoRealizado}
+\include{9_Conclusao}
+
+\backmatter \singlespace
+
+
+
+
+\bibliographystyle{unifesp}
+\bibliography{refs}
+
+\appendix
+
+%\include{apendice}
+
+\end{document}
