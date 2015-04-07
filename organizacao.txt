@@ -1,0 +1,30 @@
+
+- Ascensão do mercado de games no Brasil (material do professor Isidro)
+- Ascensão do mercado de games no Mundo (material do professor Isidro)
+- Adicionar dados de vendas moveis (apps/games) IDG (material do professor Isidro)
+
+
+- Adicionar dados de vendas Android/WindowsPhone/iOS
+- Gráficos de distribuição de aparelhos
+- Comparativo financeiro dos mercados moveis/PC/Plataforma.
+
+
+- Tipos de jogos [Jogos casuais, jogos sociais, etc.]
+- Classificação Indicativa dos jogos (material do professor Isidro)
+
+
+- Ambientes de desenvolvimento/linguagens/bibliotecas
+- Principais ferramentas de desenvolvimento
+- Tipos de monetização em games mobile
+
+
+- Fontes de financiamento
+
+
+- Cases de sucesso (3 exemplos)
+	- Como foi desenvolvido (ferramentas)
+	- Onde foi desenvolvido
+	- Estratégia de marketing
+	- Fonte de investimento
+	- Estatísticas de download ( se disponível )
+
