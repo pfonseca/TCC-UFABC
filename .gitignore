@@ -2,3 +2,6 @@
 /tex/*.tex.backup
 /tex/*.tex~
 /tex/*.aux
+/tex/root.synctex.gz
+/tex/root.bbl
+/tex/root.blg
