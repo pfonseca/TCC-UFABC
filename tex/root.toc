@@ -12,6 +12,8 @@
 \contentsline {section}{\numberline {2.2}Mundo}{5}
 \contentsline {section}{\numberline {2.3}Dispositivos M\IeC {\'o}veis}{5}
 \contentsline {chapter}{\numberline {3}Plataformas}{7}
+\contentsline {section}{\numberline {3.1}Distribui\IeC {\c c}\IeC {\~a}o mundial dos aparelhos}{7}
+\contentsline {section}{\numberline {3.2}Comparativo financeiro dos mercados m\IeC {\'o}veis}{7}
 \contentsline {chapter}{\numberline {4}Classifica\IeC {\c c}\IeC {\~a}o dos Jogos}{9}
 \contentsline {chapter}{\numberline {5}Desenvolvimento e ferramentas}{11}
 \contentsline {chapter}{\numberline {6}Cases de sucesso}{13}
