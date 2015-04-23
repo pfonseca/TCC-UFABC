@@ -7,6 +7,7 @@
 \contentsline {section}{\numberline {1.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{1}
 \contentsline {section}{\numberline {1.2}Objetivos e Motiva\IeC {\c c}\IeC {\~o}es}{2}
 \contentsline {section}{\numberline {1.3}Organiza\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {1.4}Metodologia}{3}
 \contentsline {chapter}{\numberline {2}Mercado de Jogos}{5}
 \contentsline {section}{\numberline {2.1}Brasil}{5}
 \contentsline {section}{\numberline {2.2}Mundo}{5}
